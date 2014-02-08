@@ -1,6 +1,5 @@
 // first program
-// elliott plack
-// 08 feb 2014
+// elliott plack | 08 feb 2014
 
 public class helloWorld
 {
